@@ -1,6 +1,5 @@
-### Hi there 👋
 
-I'm Entrepreneur building the future of decentralised finance
+👋 I'm Entrepreneur building the future of decentralised finance
 
 Co-founder of [@DeltaDex](https://github.com/deltaDex-Protocol/) - next-gen decentralised options protocol
 
