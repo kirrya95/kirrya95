@@ -1,13 +1,13 @@
 
 👋 I'm Entrepreneur building the future of decentralised finance
 
-Co-founder of [@DeltaDex](https://github.com/deltaDex-Protocol/) - next-gen decentralised options protocol
+
 
 - I'm very passionate about quantitative finance, machine learning, zero-knowledge protocols
 
 - 📫 How to reach me: [Telegram](https://t.me/kirr_ya) | [Twitter](https://twitter.com/kirrya95)
 
-
+prev: Founder of [@DeltaDex](https://github.com/deltaDex-Protocol/) - next-gen decentralised options protocol
 
 <!--
 **kirrya95/kirrya95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
