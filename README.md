@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: [Telegram](https://t.me/kirr_ya) | [Twitter](https://twitter.com/kirrya95)
 
-My medium: [link](https://medium.com/@kirill.bogomolov95)
+My medium profile: [link](https://medium.com/@kirill.bogomolov95)
 
 
 <!--
